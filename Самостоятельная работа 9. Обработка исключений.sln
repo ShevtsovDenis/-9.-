@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Самостоятельная работа 9. Обработка исключений", "Самостоятельная работа 9. Обработка исключений\Самостоятельная работа 9. Обработка исключений.csproj", "{34426040-F13A-4DD9-8A74-FBBD91C712DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34426040-F13A-4DD9-8A74-FBBD91C712DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34426040-F13A-4DD9-8A74-FBBD91C712DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34426040-F13A-4DD9-8A74-FBBD91C712DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34426040-F13A-4DD9-8A74-FBBD91C712DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D76E2D-FEC3-44DB-BED5-8B3B33CD8507}
+	EndGlobalSection
+EndGlobal
